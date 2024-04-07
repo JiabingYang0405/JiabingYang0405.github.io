@@ -12,4 +12,4 @@ I am an undergraduated student majoring in Computer Science and Technology at Yi
 I previously worked as a deep-learning researcher at UESTC, where I have the privilege of collaborating with [Prof. Jinkuan Song](https://scholar.google.com/citations?user=n0bK0WMAAAAJ&hl=zh-CN&oi=ao) of Center For Future Media from [School of Computer Science](https://www.scse.uestc.edu.cn/). 
 You can find my CV here: [Jiabing Yang's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:yangjiabing0405@gmail.com) / [Github](https://github.com/JiabingYang0405) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:yangjiabing0405@gmail.com) / [Github](https://github.com/JiabingYang0405) / [Wechat](../images/wechat.png) 
